@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.dark{
+background-color: #282C34; 
+color: white;
+}
+
+
+.swal2-modal{
+background-color: #282C34 !important; 
+color: white !important;
+}
+
+.modal-content{
+    background-color: #282C34;
+    color:white;
+}
+
